@@ -1,0 +1,6 @@
+# 代理补充列表
+DOMAIN-SUFFIX,erhec.top
+GEOSITE,category-games@cn
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,cm.steampowered.com
+IP-ASN,32590,DIRECT
