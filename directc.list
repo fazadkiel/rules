@@ -1,5 +1,8 @@
 # 代理补充列表
 DOMAIN-SUFFIX,erhec.top
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,my.plexapp.com
+DOMAIN-SUFFIX,plex.direct
 GEOSITE,category-games@cn
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,cm.steampowered.com
