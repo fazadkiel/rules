@@ -7,8 +7,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,nozomi.wtf
 DOMAIN-SUFFIX,ace-taffy.com
 DOMAIN-SUFFIX,makerworld.com
-DOMAIN-SUFFIX,bblmw.com
-DOMAIN-SUFFIX,bblmw.cn
+DOMAIN-SUFFIX,makerworld.bblmw.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
